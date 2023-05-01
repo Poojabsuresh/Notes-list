@@ -1,4 +1,4 @@
-# Notes-list!
+# Notes-list
 
-(https://user-images.githubusercontent.com/93676347/235426584-ebfd256f-3a02-4b73-aa6e-4d8ce322bb9a.jpg)
 
+![Screenshot 2023-05-01 133339](https://user-images.githubusercontent.com/93676347/235426967-655ae5fc-c35c-4af5-a00c-457bb89fe8e8.jpg)
